@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  nodejs-mysql-app:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2021-06-19T13:52:21.846606217+05:30"
+    description: A Helm chart for Kubernetes
+    digest: f570293bb2760d46150dc38bb3f5cc2cdff8a953131bd9fa2ef5dbee350f9e97
+    name: nodejs-mysql-app
+    type: application
+    urls:
+    - https://asvinwin123.github.io/helm-nodejs-mysql/nodejs-mysql-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-06-19T13:52:21.843255335+05:30"
